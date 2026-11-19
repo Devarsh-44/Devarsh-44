@@ -1,44 +1,102 @@
-# Hi, I'm Devarsh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:7a0000,100:e10600&height=200&section=header&text=Devarsh%20Kotak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Product%20Engineer%20%26%20Designer&descSize=18&descAlignY=56" width="100%" alt="Devarsh Kotak, Product Engineer & Designer" />
 
-**Product engineer and designer.** I design it, then I build it: data pipelines, APIs, and the interfaces on top of them.
+<div align="center">
 
-Computer Science graduate (Algoma University, 2025), based in Ahmedabad, India. Founder of **RCintel**, a product and brand design studio focused on motorsport telemetry and HMI interfaces, launching January 2027.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E10600&center=true&vCenter=true&width=560&lines=I+design+it.+Then+I+build+it.;Data+pipelines+%C2%B7+APIs+%C2%B7+Interfaces;Founder+%40+RCintel+%E2%80%94+launching+Jan+2027;Rebrands+%C2%B7+Apps+%C2%B7+UI%2FUX;Formula+1%2C+always." alt="Typing intro" />
 
-[devarshkotak.com](https://www.devarshkotak.com) · [LinkedIn](https://linkedin.com/in/DevarshKotak) · [Email](mailto:kotakdevarsh0@gmail.com)
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-devarshkotak.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.devarshkotak.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DevarshKotak)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotakdevarsh0@gmail.com)
+
+</div>
+
+## About me
+
+- Product engineer and designer based in **Ahmedabad, India** · BSc Computer Science, **Algoma University** (2025)
+- Founder of **RCintel**, a product and brand design studio launching **January 2027**: rebranding, app building and UI/UX for brands, with a specialism in motorsport telemetry and HMI interfaces
+- I build end to end: FastF1 ETL pipelines → PostgreSQL → FastAPI → the interface on top
+- Currently working through IBM's **Generative AI & Deep Learning** specialization
+- I watch every Formula 1 race, and most of my side projects end up being about it
 
 ## Featured work
 
-### 🏁 [RI360 · RaceIntel360](https://github.com/Devarsh-44/R1360) · [live](https://ri360.vercel.app)
-Every Formula 1 season since 2019, read like a pit wall. Race traces, tyre strategies, a fitted pace model per race, and a strategy lab to re-run a Grand Prix on different tyres. Built from 172,337 real timing laps across 157 races, with new races added automatically the morning after.
-`Python` `FastF1` `Pandas` `PostgreSQL` `FastAPI` `Docker` `GitHub Actions` `TypeScript`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏫 [Safal Vidyalaya](https://github.com/Devarsh-44/safal) · [live](https://safal-six.vercel.app)
-Client rebrand of a K–12 school website: from a generic template to a bilingual, notebook-inspired design system. Designed first, then built end to end.
-`Next.js` `Supabase` `UI/UX`
+### [RI360 · RaceIntel360](https://github.com/Devarsh-44/R1360)
+Every F1 season since 2019, read like a pit wall. Race traces, tyre strategies, a pace model per race, and a strategy lab. Built from **172,337 timing laps across 157 races**, updated the morning after every Grand Prix. **Launching as an app.**
 
-### 🏎️ [Hypercar Pit-Wall Telemetry](https://github.com/Devarsh-44/cadillac-jota-telemetry)
-Interactive pit-wall telemetry interface concept for an endurance-racing Hypercar programme.
-`HTML` `CSS` `JavaScript` `HMI design`
+[![Live](https://img.shields.io/badge/Live-ri360.vercel.app-e10600?style=flat-square&logo=vercel&logoColor=white)](https://ri360.vercel.app)
+![App](https://img.shields.io/badge/App-coming%20soon-444444?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🥤 [Klyte landing page](https://github.com/Devarsh-44/klyte-trial) · [live](https://klyte-trial.vercel.app)
+</td>
+<td width="50%" valign="top">
+
+### [Safal Vidyalaya](https://github.com/Devarsh-44/safal)
+Client rebrand of a K–12 school website: from a generic template to a bilingual, notebook-inspired design system with motion. Designed first, then built end to end.
+
+[![Live](https://img.shields.io/badge/Live-safal--six.vercel.app-e10600?style=flat-square&logo=vercel&logoColor=white)](https://safal-six.vercel.app)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Hypercar Pit-Wall Telemetry](https://github.com/Devarsh-44/cadillac-jota-telemetry)
+Interactive pit-wall telemetry interface concept for an endurance-racing Hypercar programme. HMI design for split-second decisions.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HMI](https://img.shields.io/badge/-HMI%20design-444444?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [Klyte landing page](https://github.com/Devarsh-44/klyte-trial)
 Product landing page concept with a 3D can, label art and studio lighting generated entirely in code.
-`Next.js` `TypeScript` `Tailwind` `GSAP` `React Three Fiber`
 
-**Also:** an n8n + OpenAI agent that scores job postings against my profile and logs them to Google Sheets, and a freelance wedding RSVP platform on Google Apps Script + Netlify.
+[![Live](https://img.shields.io/badge/Live-klyte--trial.vercel.app-e10600?style=flat-square&logo=vercel&logoColor=white)](https://klyte-trial.vercel.app)
+![Three.js](https://img.shields.io/badge/-R3F-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
----
+</td>
+</tr>
+</table>
 
-## Toolkit
+**Also built:** an n8n + OpenAI agent that scores job postings against my profile and logs them to Google Sheets, and a freelance wedding RSVP platform on Google Apps Script + Netlify.
 
-**Languages** — Python · SQL · JavaScript / TypeScript · HTML/CSS
-**Backend & data** — FastAPI · PostgreSQL · Pandas · ETL pipelines · REST APIs
-**Frontend** — Next.js · React · Tailwind CSS
-**AI & automation** — OpenAI API · LangChain · n8n
-**DevOps** — Docker · GitHub Actions · Vercel
-**Design** — Figma · UI/UX · brand identity
+## Tech stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,fastapi,postgres,docker,githubactions&theme=dark" alt="Languages and backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,threejs,vercel,git,figma&theme=dark" alt="Frontend, tools and design" />
+</p>
 
-<sub>Currently: building RCintel and working through IBM's Generative AI & Deep Learning specialization. Off the clock: Formula 1, always.</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devarsh-44&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&icon_color=e10600&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarsh-44&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&hide=batchfile" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarsh-44&bg_color=0d1117&color=c9d1d9&line=e10600&point=ffffff&area=true&area_color=e10600&hide_border=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,40:7a0000,100:0d1117&height=110&section=footer" width="100%" alt="" />
