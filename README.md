@@ -1,4 +1,4 @@
-<a href="https://www.devarshkotak.com"><img src="./banner.png" width="100%" alt="Devarsh Kotak, product engineer and designer, and RCintel, a design studio launching January 2027" /></a>
+<a href="https://www.devarshkotak.com"><img src="./banner-dk-rcintel.png" width="100%" alt="Devarsh Kotak, product engineer and designer, and RCintel, a design studio launching January 2027" /></a>
 
 <div align="center">
 
