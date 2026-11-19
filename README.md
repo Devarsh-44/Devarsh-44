@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:7a0000,100:e10600&height=200&section=header&text=Devarsh%20Kotak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Product%20Engineer%20and%20Designer&descSize=18&descAlignY=56" width="100%" alt="Devarsh Kotak, Product Engineer & Designer" />
+<a href="https://www.devarshkotak.com"><img src="./banner.png" width="100%" alt="Devarsh Kotak: Craft over slop. Built from zero." /></a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E10600&center=true&vCenter=true&width=560&lines=I+design+it.+Then+I+build+it.;Data+pipelines+%C2%B7+APIs+%C2%B7+Interfaces;Founder+%40+RCintel+%E2%80%94+launching+Jan+2027;Rebrands+%C2%B7+Apps+%C2%B7+UI%2FUX;Formula+1%2C+always." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=D94E34&center=true&vCenter=true&width=560&lines=I+design+it.+Then+I+build+it.;Data+pipelines+%C2%B7+APIs+%C2%B7+Interfaces;Founder+%40+RCintel+%E2%80%94+launching+Jan+2027;Rebrands+%C2%B7+Apps+%C2%B7+UI%2FUX;Formula+1%2C+always." alt="Typing intro" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 ### [RI360 · RaceIntel360](https://github.com/Devarsh-44/R1360)
 Every F1 season since 2019, read like a pit wall. Race traces, tyre strategies, a pace model per race, and a strategy lab. Built from **172,337 timing laps across 157 races**, updated the morning after every Grand Prix. **Launching as an app.**
 
-[![Live](https://img.shields.io/badge/Live-ri360.vercel.app-e10600?style=flat-square&logo=vercel&logoColor=white)](https://ri360.vercel.app)
+[![Live](https://img.shields.io/badge/Live-ri360.vercel.app-d94e34?style=flat-square&logo=vercel&logoColor=white)](https://ri360.vercel.app)
 ![App](https://img.shields.io/badge/App-coming%20soon-444444?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
@@ -41,7 +41,7 @@ Every F1 season since 2019, read like a pit wall. Race traces, tyre strategies, 
 ### [Safal Vidyalaya](https://github.com/Devarsh-44/safal)
 Client rebrand of a K–12 school website: from a generic template to a bilingual, notebook-inspired design system with motion. Designed first, then built end to end.
 
-[![Live](https://img.shields.io/badge/Live-safal--six.vercel.app-e10600?style=flat-square&logo=vercel&logoColor=white)](https://safal-six.vercel.app)
+[![Live](https://img.shields.io/badge/Live-safal--six.vercel.app-d94e34?style=flat-square&logo=vercel&logoColor=white)](https://safal-six.vercel.app)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
@@ -63,7 +63,7 @@ Interactive pit-wall telemetry interface concept for an endurance-racing Hyperca
 ### [Klyte landing page](https://github.com/Devarsh-44/klyte-trial)
 Product landing page concept with a 3D can, label art and studio lighting generated entirely in code.
 
-[![Live](https://img.shields.io/badge/Live-klyte--trial.vercel.app-e10600?style=flat-square&logo=vercel&logoColor=white)](https://klyte-trial.vercel.app)
+[![Live](https://img.shields.io/badge/Live-klyte--trial.vercel.app-d94e34?style=flat-square&logo=vercel&logoColor=white)](https://klyte-trial.vercel.app)
 ![Three.js](https://img.shields.io/badge/-R3F-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
@@ -91,12 +91,10 @@ Product landing page concept with a 3D can, label art and studio lighting genera
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devarsh-44&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&icon_color=e10600&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarsh-44&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&hide=batchfile" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devarsh-44&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d94e34&icon_color=d94e34&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarsh-44&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d94e34&hide=batchfile" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarsh-44&bg_color=0d1117&color=c9d1d9&line=e10600&point=ffffff&area=true&area_color=e10600&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarsh-44&bg_color=0d1117&color=c9d1d9&line=d94e34&point=ffffff&area=true&area_color=d94e34&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,40:7a0000,100:0d1117&height=110&section=footer" width="100%" alt="" />
