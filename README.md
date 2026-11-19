@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:7a0000,100:e10600&height=200&section=header&text=Devarsh%20Kotak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Product%20Engineer%20%26%20Designer&descSize=18&descAlignY=56" width="100%" alt="Devarsh Kotak, Product Engineer & Designer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:7a0000,100:e10600&height=200&section=header&text=Devarsh%20Kotak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Product%20Engineer%20and%20Designer&descSize=18&descAlignY=56" width="100%" alt="Devarsh Kotak, Product Engineer & Designer" />
 
 <div align="center">
 
